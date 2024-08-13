@@ -1,4 +1,4 @@
-# RSVP Web Application Using Vanilla JavaScript, HTML, and CSS
+# RSVP Web Application
 
 This is a simple RSVP web application built using vanilla JavaScript, HTML, and CSS. It allows users to manage a guest list for an event.
 
